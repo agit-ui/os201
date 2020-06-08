@@ -1,1 +1,1 @@
-https://scele.cs.ui.ac.id/course/view.php?id=822
+[Scele.cs.ui](https://scele.cs.ui.ac.id/course/view.php?id=822)
