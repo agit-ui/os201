@@ -1,0 +1,35 @@
+Script started on Mon 08 Jun 2020 10:37:18 PM WIB
+muhamad.agung82@badak:~/uas$ PS1="$ "
+$ echo $GitHubUser
+agit-ui
+$ echo $PSTAMP
+TMP1=200608-222258; TMP2=debb; echo --home/fasilkom/mahasiswa/m/muhamad.agung82/
+$ PS1="\$(eval \$PSTAMP)"
+--home/fasilkom/mahasiswa/m/muhamad.agung82/echo -e $CEKSAYA
+agit-ui ZCZCSCRIPTSTART 200601-111617 agit-ui
+ agit-ui agit-ui 200601-111744-c6ea-muhamad.agung82/ 200601-111744 SEQOK SUMOK c6eafff3
+ agit-ui agit-ui 200601-112225-40b2-muhamad.agung82/ 200601-112225 SEQOK SUMOK 40b2a3b3
+ agit-ui agit-ui 200601-112229-ef73-muhamad.agung82/ 200601-112229 SEQOK SUMOK ef7363ae
+ agit-ui agit-ui 200601-112245-79bd-muhamad.agung82/ 200601-112245 SEQOK SUMOK 79bda0bd
+ agit-ui ZCZCSCRIPTSTOP 200608-101447 SEQOK
+
+--home/fasilkom/mahasiswa/m/muhamad.agung82/echo -e $CEKSEBELA1
+agit-ui ZCZCSCRIPTSTART 200604-212030 ahmadirfaan1
+ agit-ui ahmadirfaan1 200604-212050-1753-UAS/ 200604-212054 SEQOK SUMOK 1753735e
+ agit-ui ahmadirfaan1 200604-212054-7052-UAS/ 200608-101417 SEQOK SUMOK 7052688a
+ agit-ui ahmadirfaan1 200604-212101-d62c-UAS/ 200608-101434 SEQOK SUMOK d62c3fa5
+ agit-ui ahmadirfaan1 200604-212107-6b34-UAS/ 200608-101438 SEQOK SUMOK 6b3482a4
+ agit-ui ZCZCSCRIPTSTOP 200608-101447 SEQOK
+
+--home/fasilkom/mahasiswa/m/muhamad.agung82/echo -e $CEKSEBELA2
+agit-ui ZCZCSCRIPTSTART 200604-224320 ajiinisti
+ agit-ui ajiinisti 200602-224349-f8cb-aji.inisti/ 200602-224349 SEQOK SUMOK f8cbd513
+ agit-ui ajiinisti 200602-224400-d09e-aji.inisti/ 200602-224400 SEQOK SUMOK d09ea10b
+ agit-ui ajiinisti 200602-224404-8b7a-aji.inisti/ 200602-224404 SEQOK SUMOK 8b7abcb9
+ agit-ui ajiinisti 200602-224410-1d0a-aji.inisti/ 200602-224410 SEQOK SUMOK 1d0a5ff3
+ agit-ui ZCZCSCRIPTSTOP 200608-101447 SEQOK
+
+--home/fasilkom/mahasiswa/m/muhamad.agung82/exit
+exit
+
+Script done on Mon 08 Jun 2020 10:38:50 PM WIB
