@@ -1,5 +1,5 @@
 ---
-permailink: /URLs/
+permalink: /URLs/
 ---
 
 # kumpulan URL
